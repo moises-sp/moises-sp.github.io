@@ -73,4 +73,8 @@
     main .techs h2, .text h2 {
         text-align: center;
     }
+
+    footer {
+        font-size: 15px;
+    }
 }
