@@ -87,3 +87,12 @@ main figure img {
 main figure img:hover {
     box-shadow: 0px 0px 6px #00e0ff;
 }
+
+main .project {
+    padding: 15px 0px 0px 0px;
+}
+
+main .project .tips-projects {
+    font-size: 20px;
+    padding-left: 18px;
+}
